@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> EMPLOYEE INTERESTS SURVEY</title>
+</head>
+<body>
+<form action ="http://google.co.in">
+<div align ="center">
+  <h1> EMPLOYEE INTERESTS SURVEY FORM</h1>
+  <label for="uname"> Enter your Name:</label>
+  <input type ="text" name="uname" id="uname" size=35 maxlength=35 value="">
+  </br></br>
+  
+  <label for="dept"> Enter your Department:</label>
+  <input type ="text" name="dept" id="dept" size=35 maxlength=35 value="">
+  </br></br>
+  
+   <label for="comment"> Tell us a little about yourself:</label>
+   <textarea name="comment" cols=30 rows=4> </textarea>
+   
+  
+  </br></br>
+
+</form>
+
+
+
+</html>
